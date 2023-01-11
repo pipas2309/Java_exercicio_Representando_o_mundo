@@ -39,7 +39,7 @@ public class User {
         this.age = year;
     }
 
-    public boolean getIsMember() {
+    public boolean getMembership() {
         return this.member;
     }
 
